@@ -42,11 +42,6 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
 - M. Babar (2025): “A Machine Learning-Based Detection of Tuberculosis Co-Infection in HIV Patients” - *ScienceDirect ELSEVIER Journal*  
 - M. Babar (2012): “Early Diabetes Prediction Using Ensemble Machine Learning” - *Final Year Research Project*
 
-## CERTIFICATIONS
-- Ethics and Governance of AI for Health - WHO (2024)  
-- HIV Science and Community - International AIDS Society (2024)  
-- Google Data Analytics Professional - Coursera (2022)  
-
 ## SELECTED KEY PROJECTS
 - HIV/AIDS Prevention Management Information System - Common Management Unit, Govt. of Pakistan  
 - HIV/AIDS Health Information System - National AIDS Control Programme, Govt. of Pakistan  
