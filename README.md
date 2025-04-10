@@ -1,20 +1,22 @@
 <h1 align="center"><strong> Muhammad Babar </strong></h1>
-Artificial Intelligence, Machine Learning & Data Expert
+ <h3 align="center"><strong> Artificial Intelligence, Machine Learning & Data Expert </strong></h3>
 
-👋 Hi, I’m @mbabar1100  
+
+👋 Hi, I’m Muhammad Babar  
 👀 I’m interested in AI, Machine Learning, and their applications in healthcare.  
 🌱 I’m currently learning more about advanced AI techniques and health informatics.  
 💞️ I’m looking to collaborate on healthcare-related AI projects, especially in disease prediction and management systems.  
-📫 How to reach me:  
+
+📫 **Lets Connect**  
 - 📱 **Phone:** +92-344-8593301  
 - ✉️ **Email:** [mbabar.msit22seecs@seecs.edu.pk](mailto:mbabar.msit22seecs@seecs.edu.pk)  
-- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mbabar1100)  
-😄 Pronouns: He/Him  
-⚡ Fun fact: I enjoy brewing specialty coffee, cooking, cycling, and developing AI tutorials for kids.
+- 🌐 **Portfolio:** [https://mbabar1100.github.io/](https://mbabar1100.github.io/)  
+- 🔗 **LinkedIn:** [Muhammad Babar LinkedIn Profile](https://www.linkedin.com/in/mbabar1100)  
+
+😄 **Pronouns:** He/Him  
+⚡ **Fun fact:** I enjoy brewing specialty coffee, cooking, cycling, and developing AI tutorials for kids.
 
 ---
-
-
 ## PROFESSIONAL SUMMARY
 Seasoned AI/ML professional with 10+ years of experience developing data-driven healthcare solutions. Specializes in machine learning (TensorFlow, PyTorch) and health informatics. Led the deployment of AI-powered diagnostic tools and predictive analytics platforms. Passionate about leveraging cutting-edge AI to transform healthcare delivery.
 
@@ -30,7 +32,7 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
 - **BS Information Technology (Gold Medalist)**, Government College University, Faisalabad, Pakistan  
   Final Year Project: "Early Diabetes Prediction Using Ensemble Machine Learning"
 
-## INTERNATIONAL SUMMER SCHOOLS & GRADUATE CERTIFICATES
+## INTERNATIONAL SUMMER SCHOOLS & CERTIFICATIONS
 - **Cambridge Summer School “Artificial Intelligence in Medicine”** | University of Cambridge, England | 09-13 September 2024  
 - **Oxford Machine Learning Summer School “Machine Learning for Health & Bio”** | University of Oxford, England | 06-14 July 2024  
 - **Centre for Digital Health “Digital Health Summit 2024”** | Stanford University, USA | 27-28 February 2024  
@@ -41,6 +43,11 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
 ## PUBLICATIONS
 - M. Babar (2025): “A Machine Learning-Based Detection of Tuberculosis Co-Infection in HIV Patients” - *ScienceDirect ELSEVIER Journal*  
 - M. Babar (2012): “Early Diabetes Prediction Using Ensemble Machine Learning” - *Final Year Research Project*
+
+## CERTIFICATIONS
+- Ethics and Governance of AI for Health - WHO (2024)  
+- HIV Science and Community - International AIDS Society (2024)  
+- Google Data Analytics Professional - Coursera (2022)  
 
 ## SELECTED KEY PROJECTS
 - HIV/AIDS Prevention Management Information System - Common Management Unit, Govt. of Pakistan  
