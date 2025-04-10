@@ -1,5 +1,5 @@
 <h1 align="center"><strong> Muhammad Babar </strong></h1>
-### Artificial Intelligence, Machine Learning & Data Expert
+Artificial Intelligence, Machine Learning & Data Expert
 
 👋 Hi, I’m @mbabar1100  
 👀 I’m interested in AI, Machine Learning, and their applications in healthcare.  
