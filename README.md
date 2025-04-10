@@ -45,6 +45,7 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
 - M. Babar (2012): “Early Diabetes Prediction Using Ensemble Machine Learning” - *Final Year Research Project*
 
 ## INTERNATIONAL CONFERENCES / PRESENTATIONS AS KEYNOTE SPEAKER
+- **Digital Health Conference 10-11 April 2025, University of Waterloo, Canada**
 - **Healthcare Information and Management Systems Society (HIMSS) Conference** | March 3-6, 2025 | Las Vegas, NV  
 - **Johns Hopkins Aramco Healthcare Annual Research Symposium “AI in Healthcare”** | 24 Sept 2024 | Saudi Arabia  
 - **DHIS2 Annual Symposium** | 22-23 February 2024 | Convene, Arlington, Virginia, USA  
