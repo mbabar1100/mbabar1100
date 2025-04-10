@@ -30,7 +30,7 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
 - **BS Information Technology (Gold Medalist)**, Government College University, Faisalabad, Pakistan  
   Final Year Project: "Early Diabetes Prediction Using Ensemble Machine Learning"
 
-## INTERNATIONAL SUMMER SCHOOLS & CERTIFICATIONS
+## INTERNATIONAL SUMMER SCHOOLS & GRADUATE CERTIFICATES
 - **Cambridge Summer School “Artificial Intelligence in Medicine”** | University of Cambridge, England | 09-13 September 2024  
 - **Oxford Machine Learning Summer School “Machine Learning for Health & Bio”** | University of Oxford, England | 06-14 July 2024  
 - **Centre for Digital Health “Digital Health Summit 2024”** | Stanford University, USA | 27-28 February 2024  
