@@ -1,4 +1,4 @@
-# **Muhammad Babar**
+<h1 align="center"><strong> Muhammad Babar </strong></h1>
 ### Artificial Intelligence, Machine Learning & Data Expert
 
 👋 Hi, I’m @mbabar1100  
