@@ -6,12 +6,14 @@
 🌱 I’m currently learning more about advanced AI techniques and health informatics.  
 💞️ I’m looking to collaborate on healthcare-related AI projects, especially in disease prediction and management systems.  
 📫 How to reach me:  
-- Email: [mbabar.msit22seecs@seecs.edu.pk](mailto:mbabar.msit22seecs@seecs.edu.pk)  
-- LinkedIn: [Muhammad Babar LinkedIn Profile](https://www.linkedin.com/in/mbabar1100)  
+- 📱 **Phone:** +92-344-8593301  
+- ✉️ **Email:** [mbabar.msit22seecs@seecs.edu.pk](mailto:mbabar.msit22seecs@seecs.edu.pk)  
+- 🔗 **LinkedIn:** [Muhammad Babar LinkedIn Profile](https://www.linkedin.com/in/mbabar1100)  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I enjoy brewing specialty coffee, cooking, cycling, and developing AI tutorials for kids.
 
 ---
+
 
 ## PROFESSIONAL SUMMARY
 Seasoned AI/ML professional with 10+ years of experience developing data-driven healthcare solutions. Specializes in machine learning (TensorFlow, PyTorch) and health informatics. Led the deployment of AI-powered diagnostic tools and predictive analytics platforms. Passionate about leveraging cutting-edge AI to transform healthcare delivery.
