@@ -8,7 +8,7 @@
 📫 How to reach me:  
 - 📱 **Phone:** +92-344-8593301  
 - ✉️ **Email:** [mbabar.msit22seecs@seecs.edu.pk](mailto:mbabar.msit22seecs@seecs.edu.pk)  
-- 🔗 **LinkedIn:** [Muhammad Babar LinkedIn Profile](https://www.linkedin.com/in/mbabar1100)  
+- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mbabar1100)  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I enjoy brewing specialty coffee, cooking, cycling, and developing AI tutorials for kids.
 
