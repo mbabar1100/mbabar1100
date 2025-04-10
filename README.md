@@ -11,7 +11,7 @@
 - 📱 **Phone:** +92-344-8593301  
 - ✉️ **Email:** [mbabar.msit22seecs@seecs.edu.pk](mailto:mbabar.msit22seecs@seecs.edu.pk)  
 - 🌐 **Portfolio:** [https://mbabar1100.github.io/](https://mbabar1100.github.io/)  
-- 🔗 **LinkedIn:** [Muhammad Babar LinkedIn Profile](https://www.linkedin.com/in/mbabar1100)  
+- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mbabar1100)  
 
 😄 **Pronouns:** He/Him  
 ⚡ **Fun fact:** I enjoy brewing specialty coffee, cooking, cycling, and developing AI tutorials for kids.
