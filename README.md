@@ -26,11 +26,13 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
 - **Health Informatics:** EHR Systems, Healthcare IT, Health Systems  
 
 ## EDUCATION
-- **MS Information Technology**, [National University of Sciences and Technology (NUST), Islamabad, Pakistan](https://nust.edu.pk/)  
-  Thesis: "A Machine Learning-Based Detection of Tuberculosis Co-Infection in HIV Patients"
+- **MS Information Technology**, <a href="https://nust.edu.pk/" target="_blank">National University of Sciences and Technology (NUST), Islamabad, Pakistan</a>  
+  Thesis: "A Machine Learning-Based Detection of Tuberculosis Co-Infection in HIV Patients"  
+  **Thesis Supervisor:** [Professor Dr. Rafia Mumtaz](https://seecs.nust.edu.pk/faculty/rafia-mumtaz/)
   
-- **BS Information Technology (Gold Medalist)**, [Government College University, Faisalabad, Pakistan](https://gcuf.edu.pk/)  
+- **BS Information Technology (Gold Medalist)**, <a href="https://gcuf.edu.pk/" target="_blank">Government College University, Faisalabad, Pakistan</a>  
   Final Year Project: "Early Diabetes Prediction Using Ensemble Machine Learning"
+
 
 ## INTERNATIONAL SUMMER SCHOOLS & CERTIFICATIONS
 - **Cambridge Summer School “Artificial Intelligence in Medicine”** | University of Cambridge, England | 09-13 September 2024  
