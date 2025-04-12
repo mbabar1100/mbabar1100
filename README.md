@@ -26,10 +26,10 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
 - **Health Informatics:** EHR Systems, Healthcare IT, Health Systems  
 
 ## EDUCATION
-- **MS Information Technology**, National University of Sciences and Technology (NUST), Islamabad, Pakistan  
+- **MS Information Technology**, National University of Sciences and Technology (NUST), Islamabad, Pakistan (https://nust.edu.pk/) 
   Thesis: "A Machine Learning-Based Detection of Tuberculosis Co-Infection in HIV Patients"
   
-- **BS Information Technology (Gold Medalist)**, Government College University, Faisalabad, Pakistan  
+- **BS Information Technology (Gold Medalist)**, Government College University, Faisalabad, Pakistan (https://gcuf.edu.pk/)
   Final Year Project: "Early Diabetes Prediction Using Ensemble Machine Learning"
 
 ## INTERNATIONAL SUMMER SCHOOLS & CERTIFICATIONS
