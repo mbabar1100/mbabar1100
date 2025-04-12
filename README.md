@@ -32,8 +32,7 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
   
 - **BS Information Technology (Gold Medalist)**, <a href="https://gcuf.edu.pk/" target="_blank"> Government College University, Faisalabad, Pakistan</a>  
   Final Year Thesis: "Early Diabetes Prediction Using Ensemble Machine Learning"
-  **Thesis Supervisor:** [Professor Dr. Muhammad Umer Sarwar](https://profiles.gcuf.edu.pk/profile/drmuhammadumersarwar)
-
+  **Thesis Supervisor:** [Professor Dr. Muhammad Umer Sarwar ](https://profiles.gcuf.edu.pk/profile/drmuhammadumersarwar)
 
 ## INTERNATIONAL SUMMER SCHOOLS & CERTIFICATIONS
 - **Cambridge Summer School “Artificial Intelligence in Medicine”** | University of Cambridge, England | 09-13 September 2024  
