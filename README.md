@@ -35,12 +35,13 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
   **Thesis Supervisor:** [Professor Dr. Muhammad Umer Sarwar ](https://profiles.gcuf.edu.pk/profile/drmuhammadumersarwar)
 
 ## INTERNATIONAL SUMMER SCHOOLS & CERTIFICATIONS
-- **Cambridge Summer School “Artificial Intelligence in Medicine”** | University of Cambridge, England | 09-13 September 2024  
-- **Oxford Machine Learning Summer School “Machine Learning for Health & Bio”** | University of Oxford, England | 06-14 July 2024  
-- **Centre for Digital Health “Digital Health Summit 2024”** | Stanford University, USA | 27-28 February 2024  
-- **International Summer School in Information Technology** | Brno University of Technology, Czech Republic | 10-25 July 2023  
-- **Sensors & Artificial Intelligence Towards Sustainable Technology Design** | Coventry University, UK | 04-09 June 2023  
-- **Health Information Systems Certificate** | University of Oslo, Norway | 01-04 June 2018  
+- **Cambridge Summer School “Artificial Intelligence in Medicine”** | [University of Cambridge, England](https://www.vanderschaar-lab.com/cambridge-ai-in-medicine-summer-school/) | 09-13 September 2024  
+- **Oxford Machine Learning Summer School “Machine Learning for Health & Bio”** | [University of Oxford, England](https://www.oxfordml.school/) | 06-14 July 2024  
+- **Centre for Digital Health “Digital Health Summit 2024”** | [Stanford University, USA](https://cdh.stanford.edu/2024-digital-health-summit) | 27-28 February 2024  
+- **International Summer School in Information Technology** | [Brno University of Technology, Czech Republic](https://www.fit.vut.cz/events/bissit/.en) | 10-25 July 2023  
+- **Sensors & Artificial Intelligence Towards Sustainable Technology Design** | [Coventry University, UK](https://pureportal.coventry.ac.uk/en/persons/elena-gaura) | 04-09 June 2023  
+- **Health Information Systems Certificate** | [University of Oslo, Norway](https://www.uio.no/studier/emner/medisin/inthealth/INTHE4105/) | 01-04 June 2018  
+  
 
 ## PUBLICATIONS
 - M. Babar (2025): “A Machine Learning-Based Detection of Tuberculosis Co-Infection in HIV Patients” - *ScienceDirect ELSEVIER Journal*  
