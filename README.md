@@ -31,7 +31,7 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
   **Thesis Supervisor:** [Professor Dr. Rafia Mumtaz](https://seecs.nust.edu.pk/faculty/rafia-mumtaz/)
   
 - **BS Information Technology (Gold Medalist)**, <a href="https://gcuf.edu.pk/" target="_blank"> Government College University, Faisalabad, Pakistan</a>  
-  Final Year Thesis: "Early Diabetes Prediction Using Ensemble Machine Learning"
+  Final Year Thesis: "Early Diabetes Prediction Using Ensemble Machine Learning"<br>
   **Thesis Supervisor:** [Professor Dr. Muhammad Umer Sarwar](https://profiles.gcuf.edu.pk/profile/drmuhammadumersarwar)
 
 ## INTERNATIONAL SUMMER SCHOOLS & CERTIFICATIONS
