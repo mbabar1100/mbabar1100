@@ -51,10 +51,10 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
 ## INTERNATIONAL CONFERENCES / PRESENTATIONS AS KEYNOTE SPEAKER
 - **Digital Health Conference 10-11 April 2025**, <a href="https://uwaterloo.ca/digital-health/" target="_blank">University of Waterloo, Canada</a>
 - **HIMSS Global Health Conference & Exhibition** | March 3-6, 2025 | <a href="https://www.himssconference.com/" target="_blank">HIMSS Las Vegas, NV</a>
-- **Johns Hopkins Aramco Healthcare Annual Research Symposium “AI in Healthcare”** | 24 Sept 2024 | <a href="https://www.jhah.com/en/news-events/events/jhah-annual-research-symposium" target="_blank">Saudi Arabia</a>
-- **DHIS2 Annual Symposium** | 22-23 February 2024 | <a href="https://www.dhis2symposium.org/" target="_blank">Convene, Arlington, Virginia, USA</a>
+- **Johns Hopkins Aramco Healthcare Annual Research Symposium “AI in Healthcare”** | 24 Sept 2024 | <a href="https://www.jhah.com/en/news-events/events/jhah-annual-research-symposium" target="_blank">Johns Hopkins Aramco Healthcare</a>
+- **DHIS2 Annual Symposium** | 22-23 February 2024 | <a href="https://www.dhis2symposium.org/" target="_blank">BAO Systems, Washington, D.C., U.S.</a>
 - **Digital Health Conference** | 28-29 February 2024 | <a href="https://www.timeshighered-events.com/digital-health-2024" target="_blank">Stanford University, California, USA</a>
-- **DHIS2 Annual Conference** | 20-23 June 2022 | <a href="https://dhis2.org/academy/annual-conference/" target="_blank">University of Oslo, Norway</a>
+- **DHIS2 Annual Conference** | 20-23 June 2022 | <a href="https://dhis2.org/academy/annual-conference/" target="_blank">HISP Center, University of Oslo, Norway</a>
 - **DHIS2 Tracker Level 2** | 20-28 October 2018 | <a href="https://hispsrilanka.org/" target="_blank">Health Information Systems Program (HISP), Sri Lanka</a>
 
   
