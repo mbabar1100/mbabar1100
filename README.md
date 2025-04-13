@@ -116,10 +116,10 @@ Managed healthcare network infrastructure, ensuring reliable access to Electroni
 - Sri Lanka - October 2018  
 
 ## HOBBIES & INTERESTS
-Enjoying off time with family, Specialty Coffee Brewing, Cooking, Cycling, Gaming, Hiking.  
-Volunteer at community gym, helping peers to make workout plans.  
-Developing AI tutorial for early year school kids.  
-Experimenting with sensor-based plant/gardening monitoring systems.
+- Enjoying off time with family, Specialty Coffee Brewing, Cooking, Cycling, Gaming, Hiking.
+- Volunteer at community gym, helping peers to make workout plans.
+- Developing AI tutorial for early year school kids.
+- Experimenting with sensor-based plant/gardening monitoring systems.
 
 ## GitHub Stats
 - Repositories: 12  
