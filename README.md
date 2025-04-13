@@ -37,7 +37,7 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
 ## INTERNATIONAL SUMMER SCHOOLS & CERTIFICATIONS
 - **Cambridge Summer School “Artificial Intelligence in Medicine”** | <a href="https://www.vanderschaar-lab.com/cambridge-ai-in-medicine-summer-school/" target="_blank">University of Cambridge, England</a> | 09-13 September 2024  
 - **Oxford Machine Learning Summer School “Machine Learning for Health & Bio”** | <a href="https://www.oxfordml.school/" target="_blank">University of Oxford, England</a> | 06-14 July 2024  
-- **Centre for Digital Health “Digital Health Summit 2024”** | <a href="https://cdh.stanford.edu/2024-digital-health-summit" target="_blank">Center for Digital Health, Stanford University, USA</a> | 27-28 February 2024  
+- **Centre for Digital Health “Digital Health Summit 2024”** | <a href="https://cdh.stanford.edu/2024-digital-health-summit" target="_blank">Stanford University, USA</a> | 27-28 February 2024  
 - **International Summer School in Information Technology** | <a href="https://www.fit.vut.cz/events/bissit/.en" target="_blank">Brno University of Technology, Czech Republic</a> | 10-25 July 2023  
 - **Sensors & Artificial Intelligence Towards Sustainable Technology Design** | <a href="https://pureportal.coventry.ac.uk/en/persons/elena-gaura" target="_blank">Coventry University, UK</a> | 04-09 June 2023  
 - **Health Information Systems Certificate** | <a href="https://www.uio.no/studier/emner/medisin/inthealth/INTHE4105/" target="_blank">University of Oslo, Norway</a> | 01-04 June 2018  
@@ -53,7 +53,7 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
 - **HIMSS Global Health Conference & Exhibition** | March 3-6, 2025 | <a href="https://www.himssconference.com/" target="_blank">HIMSS Las Vegas, NV</a>
 - **Johns Hopkins Aramco Healthcare Annual Research Symposium “AI in Healthcare”** | 24 Sept 2024 | <a href="https://www.jhah.com/en/news-events/events/jhah-annual-research-symposium" target="_blank">Johns Hopkins Aramco Healthcare</a>
 - **DHIS2 Annual Symposium** | 22-23 February 2024 | <a href="https://www.dhis2symposium.org/" target="_blank">BAO Systems, Washington, D.C., U.S.</a>
-- **Digital Health Conference** | 28-29 February 2024 | <a href="https://www.timeshighered-events.com/digital-health-2024" target="_blank">Stanford University, California, USA</a>
+- **Digital Health Conference** | 28-29 February 2024 | <a href="https://www.timeshighered-events.com/digital-health-2024" target="_blank">Center for Digital Health, Stanford University, California, USA</a>
 - **DHIS2 Annual Conference** | 20-23 June 2022 | <a href="https://dhis2.org/academy/annual-conference/" target="_blank">HISP Center, University of Oslo, Norway</a>
 - **DHIS2 Tracker Level 2** | 20-28 October 2018 | <a href="https://hispsrilanka.org/" target="_blank">Health Information Systems Program (HISP), Sri Lanka</a>
 
