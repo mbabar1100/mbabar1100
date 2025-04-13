@@ -50,7 +50,7 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
 
 ## INTERNATIONAL CONFERENCES / PRESENTATIONS AS KEYNOTE SPEAKER
 - **Digital Health Conference 10-11 April 2025, University of Waterloo, Canada**
-- **HIMSS Global Health Conference & Exhibition| March 3-6, 2025 | HIMSS Las Vegas, NV  
+- **HIMSS Global Health Conference & Exhibition| March 3-6, 2025 | HIMSS Las Vegas, NV**  
 - **Johns Hopkins Aramco Healthcare Annual Research Symposium “AI in Healthcare”** | 24 Sept 2024 | Saudi Arabia  
 - **DHIS2 Annual Symposium** | 22-23 February 2024 | Convene, Arlington, Virginia, USA  
 - **Digital Health Conference** | 28-29 February 2024 | Stanford University, California, USA  
