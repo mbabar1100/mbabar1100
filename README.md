@@ -54,7 +54,7 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
 - **Johns Hopkins Aramco Healthcare Annual Research Symposium “AI in Healthcare”** | 24 Sept 2024 | <a href="https://www.jhah.com/en/news-events/events/jhah-annual-research-symposium" target="_blank">JH Aramco Healthcare</a>
 - **DHIS2 Annual Symposium** | 22-23 February 2024 | <a href="https://www.dhis2symposium.org/" target="_blank">BAO Systems, Washington, D.C., U.S.</a>
 - **Digital Health Conference** | 28-29 February 2024 | <a href="https://www.timeshighered-events.com/digital-health-2024" target="_blank">Center for Digital Health, Stanford University, California, USA</a>
-- **DHIS2 Annual Conference** | 20-23 June 2022 | <a href="https://dhis2.org/academy/annual-conference/" target="_blank">HISP Center, University of Oslo, Norway</a>
+- **DHIS2 Annual Conference** | 20-23 June 2022 | <a href="https://dhis2.org/academy/annual-conference/" target="_blank">Health Information Systems Program (HISP), University of Oslo, Norway</a>
 - **DHIS2 Tracker Level 2** | 20-28 October 2018 | <a href="https://hispsrilanka.org/" target="_blank">Health Information Systems Program (HISP), Sri Lanka</a>
 
   
