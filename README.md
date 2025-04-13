@@ -55,7 +55,7 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
 - **DHIS2 Annual Symposium** | 22-23 February 2024 | Convene, Arlington, Virginia, USA  
 - **Digital Health Conference** | 28-29 February 2024 | Stanford University, California, USA  
 - **DHIS2 Annual Conference** | 20-23 June 2022 | University of Oslo, Norway  
-- **DHIS2 Tracker Level 2** | 20-28 October 2018 | Colombo, Sri Lanka
+- **DHIS2 Tracker Level 2** | 20-28 October 2018 | Health Information Systems, Sri Lanka
   
 ## SELECTED KEY PROJECTS
 - HIV/AIDS Prevention Management Information System - Common Management Unit, Govt. of Pakistan  
