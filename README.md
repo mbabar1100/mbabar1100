@@ -1,5 +1,5 @@
 <h1 align="center"><strong> Muhammad Babar </strong></h1>
- <h3 align="center"><strong> Artificial Intelligence, Machine Learning & Data Expert </strong></h3>
+ <h3 align="center"><strong> Artificial Intelligence, Machine Learning & Health Data Researcher </strong></h3>
 
 
 👋 Hi, I’m Muhammad Babar  
