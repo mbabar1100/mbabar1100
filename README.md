@@ -39,7 +39,7 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
 - **Oxford Machine Learning Summer School “Machine Learning for Health & Bio”** | <a href="https://www.oxfordml.school/" target="_blank">University of Oxford, England</a> | 06-14 July 2024  
 - **Centre for Digital Health “Digital Health Summit 2024”** | <a href="https://cdh.stanford.edu/2024-digital-health-summit" target="_blank">Stanford University, USA</a> | 27-28 February 2024  
 - **International Summer School in Information Technology** | <a href="https://www.fit.vut.cz/events/bissit/.en" target="_blank">Brno University of Technology, Czech Republic</a> | 10-25 July 2023  
-- **Sensors & Artificial Intelligence Towards Sustainable Technology Design** | <a href="https://pureportal.coventry.ac.uk/en/persons/elena-gaura" target="_blank">Coventry University, UK</a> | 04-09 June 2023  
+- **Sensors & Artificial Intelligence Towards Sustainable Technology Design** | <a href="https://pureportal.coventry.ac.uk/en/persons/elena-gaura" target="_blank">Coventry University, England </a> | 04-09 June 2023  
 - **Health Information Systems Certificate** | <a href="https://www.uio.no/studier/emner/medisin/inthealth/INTHE4105/" target="_blank">University of Oslo, Norway</a> | 01-04 June 2018  
   
   
