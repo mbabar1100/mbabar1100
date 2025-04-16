@@ -29,6 +29,8 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
 - **MS Information Technology**, <a href="https://nust.edu.pk/" target="_blank">National University of Sciences and Technology (NUST), Islamabad, Pakistan</a>  
   Thesis: "A Machine Learning-Based Detection of Tuberculosis Co-Infection in HIV Patients"  
   **Thesis Supervisor:** [Professor Dr. Rafia Mumtaz](https://seecs.nust.edu.pk/faculty/rafia-mumtaz/)
+  **Thesis Guidance and Examinations Committee:** [Prof. Dr. M. Daud Abdullah Asif](https://seecs.nust.edu.pk/faculty/muhammad-daud-abdullah-asif/), [Prof. Dr. M. Bilal Ali](https://seecs.nust.edu.pk/faculty/hafiz-syed-muhammad-bilal-ali/)
+  
   
 - **BS Information Technology (Gold Medalist)**, <a href="https://gcuf.edu.pk/" target="_blank"> Government College University, Faisalabad, Pakistan</a>  
   Final Year Thesis: "Early Diabetes Prediction Using Ensemble Machine Learning"<br>
