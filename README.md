@@ -36,7 +36,7 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
   Final Year Thesis: "Early Diabetes Prediction Using Ensemble Machine Learning"<br>
   **Thesis Supervisor:** [Prof. Dr. Muhammad Umer Sarwar](https://profiles.gcuf.edu.pk/profile/drmuhammadumersarwar)
 
-## INTERNATIONAL SUMMER SCHOOLS & CERTIFICATIONS
+## INTERNATIONAL SUMMER SCHOOLS & GRADUATE CERTIFICATES
 - **Cambridge Summer School “Artificial Intelligence in Medicine”** | <a href="https://www.vanderschaar-lab.com/cambridge-ai-in-medicine-summer-school/" target="_blank">University of Cambridge, England</a> | 09-13 September 2024  
 - **Oxford Machine Learning Summer School “Machine Learning for Health & Bio”** | <a href="https://www.oxfordml.school/" target="_blank">University of Oxford, England</a> | 06-14 July 2024  
 - **Centre for Digital Health “Digital Health Summit 2024”** | <a href="https://cdh.stanford.edu/2024-digital-health-summit" target="_blank">Stanford University, USA</a> | 27-28 February 2024  
