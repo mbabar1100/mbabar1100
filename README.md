@@ -52,7 +52,7 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
 
 ## INTERNATIONAL CONFERENCES / PRESENTATIONS AS KEYNOTE SPEAKER
 - **Digital Health Conference 10-11 April 2025**, <a href="https://uwaterloo.ca/digital-health/" target="_blank">University of Waterloo, Canada</a>
-- **HIMSS Global Health Conference & Exhibition** | March 3-6, 2025 | <a href="https://www.himssconference.com/" target="_blank">HIMSS Las Vegas, NV</a>
+- **HIMSS Global Health Conference & Exhibition** | March 3-6, 2025 | <a href="[https://www.himssconference.com/](https://www.mobihealthnews.com/video/strengthening-health-information-systems-pakistan" target="_blank">HIMSS Las Vegas, NV</a>
 - **Johns Hopkins Aramco Healthcare Annual Research Symposium “AI in Healthcare”** | 24 Sept 2024 | <a href="https://www.jhah.com/en/news-events/events/jhah-annual-research-symposium" target="_blank">JH Aramco Healthcare</a>
 - **DHIS2 Annual Symposium** | 22-23 February 2024 | <a href="https://www.dhis2symposium.org/" target="_blank">BAO Systems, Washington, D.C., U.S.</a>
 - **Digital Health Conference** | 28-29 February 2024 | <a href="https://www.timeshighered-events.com/digital-health-2024" target="_blank">Center for Digital Health, Stanford University, California, USA</a>
