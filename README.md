@@ -1,4 +1,5 @@
 <h1 align="center"><strong> Muhammad Babar </strong></h1>
+<h2 align="center"><strong> PhD Student at Univeristy of Colorado Denver </strong></h2>
  <h3 align="center"><strong> Artificial Intelligence, Machine Learning & Health Data Researcher </strong></h3>
 
 
@@ -10,7 +11,6 @@
 📫 **Lets Connect**  
 - 📱 **Phone:** +92-344-8593301
 - ✉️ **Email:** [muhammad.babar@ucdenver.edu](mailto:muhammad.babar@ucdenver.edu)    
-- ✉️ **Email:** [mbabar.msit22seecs@seecs.edu.pk](mailto:mbabar.msit22seecs@seecs.edu.pk)  
 - 🌐 **Portfolio:** [https://mbabar1100.github.io/](https://mbabar1100.github.io/)  
 - 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mbabar1100)  
 
