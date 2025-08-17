@@ -27,7 +27,7 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
 - **Health Informatics:** EHR Systems, Healthcare IT, Health Systems  
 
 ## EDUCATION
-- **PhD Computer Science and Information Systems**, <a href="[https://nust.edu.pk/](https://engineering.ucdenver.edu/computer-science-programs-graduate/computer-science-and-information-systems-phd)" target="_blank">University of Colorado Denver U.S.</a>  
+- **PhD Computer Science and Information Systems**, <a href="https://engineering.ucdenver.edu/computer-science-programs-graduate/computer-science-and-information-systems-phd" target="_blank">University of Colorado Denver U.S.</a> University of Colorado Denver U.S.</a>  
 - **MS Information Technology**, <a href="https://nust.edu.pk/" target="_blank">National University of Sciences and Technology (NUST), Islamabad, Pakistan</a>  
   Thesis: "A Machine Learning-Based Detection of Tuberculosis Co-Infection in HIV Patients" <br>
   **Thesis Supervisor:** [Professor Dr. Rafia Mumtaz](https://seecs.nust.edu.pk/faculty/rafia-mumtaz/) <br>
