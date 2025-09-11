@@ -1,5 +1,5 @@
 <h1 align="center"><strong> Muhammad Babar </strong></h1>
-<h2 align="center"><strong> PhD Student in Computer Science at Univeristy of Colorado Denver </strong></h2>
+<h2 align="center"><strong> PhD Student in Computer Science & Information Systems at Univeristy of Colorado Denver </strong></h2>
  <h3 align="center"><strong> Artificial Intelligence, Machine Learning & Health Data Researcher </strong></h3>
 
 
