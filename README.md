@@ -28,7 +28,7 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
 
 ## EDUCATION
 - **PhD Computer Science and Information Systems (Fall 2025 - In Progress)**, <a href="https://engineering.ucdenver.edu/computer-science-programs-graduate/computer-science-and-information-systems-phd" target="_blank">University of Colorado Denver U.S.</a>
-- Focus: AI and Machine Learning for Healthcare
+Focus: AI and Machine Learning for Healthcare
 - **MS Information Technology**, <a href="https://nust.edu.pk/" target="_blank">National University of Sciences and Technology (NUST), Islamabad, Pakistan</a>  
   Thesis: "A Machine Learning-Based Detection of Tuberculosis Co-Infection in HIV Patients" <br>
   **Thesis Supervisor:** [Professor Dr. Rafia Mumtaz](https://seecs.nust.edu.pk/faculty/rafia-mumtaz/) <br>
