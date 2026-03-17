@@ -48,10 +48,35 @@ Seasoned AI/ML professional with 10+ years of experience developing data-driven 
   
   
 
-## PUBLICATIONS
-- M. Babar (2025): “A Machine Learning-Based Detection of Tuberculosis Co-Infection in HIV Patients” - *ScienceDirect ELSEVIER Journal*  
-- M. Babar (2012): “Early Diabetes Prediction Using Ensemble Machine Learning” - *Final Year Research Project*
+## 📚 Publications
 
+- **Babar, M.**, Banaei-Kashani, F., Zohrabi, M., Mousavian, A., Eron, K., Avula, K., & Rachuri, S. (2026).  
+  *Cross-Modal Recovery of Missing Genomic Signals: Evaluating Deep and Traditional Imputation Methods in Pan-Cancer Multi-Omics Data.*  
+  Manuscript submitted for publication.
+
+- **Babar, M.**, Banaei-Kashani, F., Mousavian, A., & Zohrabi, M. J. (2026).  
+  *Assessing Multimodal Alignment Techniques for Improving Radiology Image Caption Retrieval.*  
+  Manuscript submitted for publication.
+
+- **Babar, M.**, Rybarczyk, G., Schmitz, K., Banaei-Kashani, F., Ramos, V., & Hussein, S. (2026).  
+  *Extended Clustering for Multi-Omics Graph Embeddings: Improving Subtype Discovery in TCGA using BioNeuralNet.*  
+  Manuscript submitted for publication.
+
+- **Babar, M.**, Mumtaz, R., Asif, M. D. A., Bilal, H. S. M., Mumtaz, S., & Ul Haq, M. (2025).  
+  *A Machine Learning-Based Early Detection of Tuberculosis (TB) Co-Infection in Human Immunodeficiency Virus (HIV) Patients.*  
+  Manuscript submitted for publication.
+
+- **Babar, M.**, Ahmed, U., Tariq, S., Raza, R., & Sufian, A. (2025).  
+  *Text Mining-Driven Risk Prediction for Acute Heart Failure in Dyspnea Patients.*  
+  Manuscript submitted for publication.
+
+- Faizan, M., Ali, S., Zia, U., & **Babar, M.** (2025).  
+  *3D SegUX-Net: Multi-modal MRI Segmentation using Large Kernels.*  
+  Manuscript submitted for publication (IEEE Transactions on Emerging Topics in Computational Intelligence).
+
+- **Babar, M.** (2012).  
+  *Early Diabetes Prediction Using Ensemble Machine Learning.*  
+  Final Year Research Project, Department of Information Technology, Government College University, Faisalabad, Pakistan.
 ## INTERNATIONAL CONFERENCES / PRESENTATIONS AS KEYNOTE SPEAKER
 - **Digital Health Conference 10-11 April 2025**, <a href="https://uwaterloo.ca/digital-health/" target="_blank">University of Waterloo, Canada</a>
 - **HIMSS Global Health Conference & Exhibition** | March 3-6, 2025 | <a href="https://www.mobihealthnews.com/video/strengthening-health-information-systems-pakistan" target="_blank">HIMSS Las Vegas, NV</a>
