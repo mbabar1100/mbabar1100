@@ -9,7 +9,7 @@
 💞️ I’m looking to collaborate on healthcare-related AI projects, especially in disease prediction and management systems.  
 
 📫 **Lets Connect**  
-- 📱 **Phone:** +92-344-8593301
+- 📱 **Phone:** +1 (720) 261-2467
 - ✉️ **Email:** [muhammad.babar@ucdenver.edu](mailto:muhammad.babar@ucdenver.edu)    
 - 🌐 **Portfolio:** [https://mbabar1100.github.io/](https://mbabar1100.github.io/)  
 - 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mbabar1100)  
